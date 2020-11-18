@@ -10,5 +10,6 @@ def load_prep(url):
             .drop(idf[idf["party"] == "green"].index)
             .dropna()
             .drop(columns=["version", "FIPS", "state", "office"])
+            .reset_index()
     )
     return df
