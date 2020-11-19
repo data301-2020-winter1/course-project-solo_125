@@ -11271,10 +11271,10 @@ year,state,state_po,county,FIPS,office,candidate,party,candidatevotes,totalvotes
 2000,Virginia,VA,Essex,51057,President,George W. Bush,republican,1995,3831,20191203
 2000,Virginia,VA,Essex,51057,President,Ralph Nader,green,59,3831,20191203
 2000,Virginia,VA,Essex,51057,President,Other,NA,27,3831,20191203
-2000,Virginia,VA,Fairfax,51059,President,Al Gore,democrat,196501,413775,20191203
-2000,Virginia,VA,Fairfax,51059,President,George W. Bush,republican,202181,413775,20191203
-2000,Virginia,VA,Fairfax,51059,President,Ralph Nader,green,12201,413775,20191203
-2000,Virginia,VA,Fairfax,51059,President,Other,NA,2892,413775,20191203
+2000,Virginia,VA,Fairfax Town,51059,President,Al Gore,democrat,196501,413775,20191203
+2000,Virginia,VA,Fairfax Town,51059,President,George W. Bush,republican,202181,413775,20191203
+2000,Virginia,VA,Fairfax Town,51059,President,Ralph Nader,green,12201,413775,20191203
+2000,Virginia,VA,Fairfax Town,51059,President,Other,NA,2892,413775,20191203
 2000,Virginia,VA,Fauquier,51061,President,Al Gore,democrat,8296,23481,20191203
 2000,Virginia,VA,Fauquier,51061,President,George W. Bush,republican,14456,23481,20191203
 2000,Virginia,VA,Fauquier,51061,President,Ralph Nader,green,570,23481,20191203
@@ -20920,9 +20920,9 @@ year,state,state_po,county,FIPS,office,candidate,party,candidatevotes,totalvotes
 2004,Virginia,VA,Essex,51057,President,John Kerry,democrat,2007,4344,20191203
 2004,Virginia,VA,Essex,51057,President,George W. Bush,republican,2304,4344,20191203
 2004,Virginia,VA,Essex,51057,President,Other,NA,33,4344,20191203
-2004,Virginia,VA,Fairfax,51059,President,John Kerry,democrat,245671,461379,20191203
-2004,Virginia,VA,Fairfax,51059,President,George W. Bush,republican,211980,461379,20191203
-2004,Virginia,VA,Fairfax,51059,President,Other,NA,3728,461379,20191203
+2004,Virginia,VA,Fairfax Town,51059,President,John Kerry,democrat,245671,461379,20191203
+2004,Virginia,VA,Fairfax Town,51059,President,George W. Bush,republican,211980,461379,20191203
+2004,Virginia,VA,Fairfax Town,51059,President,Other,NA,3728,461379,20191203
 2004,Virginia,VA,Fauquier,51061,President,John Kerry,democrat,10712,29915,20191203
 2004,Virginia,VA,Fauquier,51061,President,George W. Bush,republican,19011,29915,20191203
 2004,Virginia,VA,Fauquier,51061,President,Other,NA,192,29915,20191203
@@ -30271,9 +30271,9 @@ year,state,state_po,county,FIPS,office,candidate,party,candidatevotes,totalvotes
 2008,Virginia,VA,Essex,51057,President,Barack Obama,democrat,2934,5364,20191203
 2008,Virginia,VA,Essex,51057,President,John McCain,republican,2379,5364,20191203
 2008,Virginia,VA,Essex,51057,President,Other,NA,51,5364,20191203
-2008,Virginia,VA,Fairfax,51059,President,Barack Obama,democrat,310359,516254,20191203
-2008,Virginia,VA,Fairfax,51059,President,John McCain,republican,200994,516254,20191203
-2008,Virginia,VA,Fairfax,51059,President,Other,NA,4901,516254,20191203
+2008,Virginia,VA,Fairfax Town,51059,President,Barack Obama,democrat,310359,516254,20191203
+2008,Virginia,VA,Fairfax Town,51059,President,John McCain,republican,200994,516254,20191203
+2008,Virginia,VA,Fairfax Town,51059,President,Other,NA,4901,516254,20191203
 2008,Virginia,VA,Fauquier,51061,President,Barack Obama,democrat,14616,34219,20191203
 2008,Virginia,VA,Fauquier,51061,President,John McCain,republican,19227,34219,20191203
 2008,Virginia,VA,Fauquier,51061,President,Other,NA,376,34219,20191203
@@ -39622,9 +39622,9 @@ year,state,state_po,county,FIPS,office,candidate,party,candidatevotes,totalvotes
 2012,Virginia,VA,Essex,51057,President,Barack Obama,democrat,3016,5675,20191203
 2012,Virginia,VA,Essex,51057,President,Mitt Romney,republican,2602,5675,20191203
 2012,Virginia,VA,Essex,51057,President,Other,NA,57,5675,20191203
-2012,Virginia,VA,Fairfax,51059,President,Barack Obama,democrat,315273,529287,20191203
-2012,Virginia,VA,Fairfax,51059,President,Mitt Romney,republican,206773,529287,20191203
-2012,Virginia,VA,Fairfax,51059,President,Other,NA,7241,529287,20191203
+2012,Virginia,VA,Fairfax Town,51059,President,Barack Obama,democrat,315273,529287,20191203
+2012,Virginia,VA,Fairfax Town,51059,President,Mitt Romney,republican,206773,529287,20191203
+2012,Virginia,VA,Fairfax Town,51059,President,Other,NA,7241,529287,20191203
 2012,Virginia,VA,Fauquier,51061,President,Barack Obama,democrat,13965,35555,20191203
 2012,Virginia,VA,Fauquier,51061,President,Mitt Romney,republican,21034,35555,20191203
 2012,Virginia,VA,Fauquier,51061,President,Other,NA,556,35555,20191203
@@ -48973,9 +48973,9 @@ year,state,state_po,county,FIPS,office,candidate,party,candidatevotes,totalvotes
 2016,Virginia,VA,Essex,51057,President,Hillary Clinton,democrat,2542,5408,20191203
 2016,Virginia,VA,Essex,51057,President,Donald Trump,republican,2657,5408,20191203
 2016,Virginia,VA,Essex,51057,President,Other,NA,209,5408,20191203
-2016,Virginia,VA,Fairfax,51059,President,Hillary Clinton,democrat,355133,551183,20191203
-2016,Virginia,VA,Fairfax,51059,President,Donald Trump,republican,157710,551183,20191203
-2016,Virginia,VA,Fairfax,51059,President,Other,NA,38340,551183,20191203
+2016,Virginia,VA,Fairfax Town,51059,President,Hillary Clinton,democrat,355133,551183,20191203
+2016,Virginia,VA,Fairfax Town,51059,President,Donald Trump,republican,157710,551183,20191203
+2016,Virginia,VA,Fairfax Town,51059,President,Other,NA,38340,551183,20191203
 2016,Virginia,VA,Fauquier,51061,President,Hillary Clinton,democrat,12971,37467,20191203
 2016,Virginia,VA,Fauquier,51061,President,Donald Trump,republican,22127,37467,20191203
 2016,Virginia,VA,Fauquier,51061,President,Other,NA,2369,37467,20191203
